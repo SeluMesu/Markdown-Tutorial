@@ -24,14 +24,19 @@ when hovering on the link
 ---
 ### Unorder List
 Using the * 
+
 * First
 * Second
 * Third
+
 Using +
+
 + First
 + Second
 + Third
+
 Using -
+
 - First
 - Second
 - Third
