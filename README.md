@@ -10,8 +10,8 @@ This a tutorial for markdown light wight markup language.
 ---
 ### Links
 
-[[Github](Github.com)]
+[[Github](https://www.github.com)]
 
 when hovering on the link
 
-[[Github](Github.com/SeluHadu, "SeluHadu")]
+[[Github](https://github.com/SeluHadu "SeluHadu")]
