@@ -14,4 +14,4 @@ This a tutorial for markdown light wight markup language.
 
 when hovering on the link
 
-[[Github](Github.com/SeluHadu)]
+[[Github](Github.com/SeluHadu, "SeluHadu")]
