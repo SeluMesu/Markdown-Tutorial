@@ -23,14 +23,15 @@ when hovering on the link
 1. Fourth 4
 ---
 ### Unorder List
+Using the * 
 * First
 * Second
 * Third
-
+Using +
 + First
 + Second
 + Third
-
+Using -
 - First
 - Second
 - Third
