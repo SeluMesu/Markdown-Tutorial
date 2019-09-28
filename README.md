@@ -15,3 +15,13 @@ This a tutorial for markdown light wight markup language.
 when hovering on the link
 
 [[Github](https://github.com/SeluHadu "SeluHadu")]
+---
+### List
+1. First 1
+2. Second 2
+3. Third 3
+4. Fourth 4
+---
+### Unorder List
+. 1 
+. 2
